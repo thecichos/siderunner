@@ -1,0 +1,20 @@
+{
+	"name": "thecichos/siderunner",
+	"version": "0.0.1",
+	"description": "A package that makes it easier to run a process out of session in php",
+	"minimum-stability": "stable",
+	"authors": [
+		{
+			"name": "Jonas",
+			"email": "thecichos@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=8.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"Siderunner\\": "Siderunner/"
+		}
+	}
+}

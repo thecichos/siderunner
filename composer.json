@@ -2,7 +2,6 @@
 	"name": "thecichos/siderunner",
 	"version": "0.0.1",
 	"description": "A package that makes it easier to run a process out of session in php",
-	"minimum-stability": "stable",
 	"license": "Apache-2.0",
 	"authors": [
 		{
